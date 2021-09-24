@@ -73,6 +73,7 @@ td:nth-child(2) .chips_container .chip {
   color: #6b7581;
   font-weight: 600;
   border-bottom: 1.2px solid var(--border);
+  height: 100%;
 }
 td {
   padding: 16px 16px;
